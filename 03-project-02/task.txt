@@ -1,0 +1,15 @@
+REST API - JSON
+
+GET /user - HTML Document Render - Done
+GET /api/user - List all user- Done
+
+GET /api/user/1 - GET the user with ID 1 - Done
+GET /api/user/2 - GET the user with ID 2 - Done
+
+POST /api/users - Create new user
+
+PATCH /api/user/1 - EDIT the user with ID 1
+
+DELETE /api/user/1 - Delete the user with ID 1 
+
+note :- go to https://mockaroo.com/ its give me dummy data for testing purposes.
